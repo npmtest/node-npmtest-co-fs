@@ -1,4 +1,7 @@
-# test coverage for  [co-fs (v1.2.0)](https://github.com/visionmedia/co-fs)  [![npm package](https://img.shields.io/npm/v/npmtest-co-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-fs.svg)](https://travis-ci.org/npmtest/node-npmtest-co-fs)
+# npmtest-co-fs
+
+#### basic test coverage for  [co-fs (v1.2.0)](https://github.com/visionmedia/co-fs)  [![npm package](https://img.shields.io/npm/v/npmtest-co-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-co-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-co-fs.svg)](https://travis-ci.org/npmtest/node-npmtest-co-fs)
+
 #### fs wrappers for 'co'
 
 [![NPM](https://nodei.co/npm/co-fs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/co-fs)
